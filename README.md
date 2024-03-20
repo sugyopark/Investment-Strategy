@@ -7,5 +7,6 @@
 5. 10% 이상 하락 시 매도
 
 리밸런싱 기간: 3개월
+![backtest](https://github.com/sugyopark/Investment-Strategy/assets/128905605/0afc2461-bfd3-4b68-bd0b-a673643e5dc8)
 
 * 궁금한 점 있으시면 프로필의 SNS로 연락바랍니다.
